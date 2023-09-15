@@ -1,7 +1,7 @@
 # Mini-SAS-UML
 
 # Système de gestion d'une université
-![computer](https://github.com/mjidelouss/Mini-SAS-UML/blob/main/Système-de-gestion-d'une-université.png)
+![computer](https://github.com/mjidelouss/Mini-SAS-UML/blob/main/Système-de-gestion-d'une-université.jpeg)
 
 # Système de réservation pour une compagnie aérienne
 ![computer](https://github.com/mjidelouss/Mini-SAS-UML/blob/main/Système-de-réservation-pour-une-compagnie-aérienne.jpeg)
